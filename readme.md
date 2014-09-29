@@ -16,7 +16,7 @@ Configuration
         }
 
 2. Save the json file in a directory. We will name the directory to the file \<PASS_FILE_PATH\>
-3. Copy the powershell scripts in a directory <PASS_DIR>
+3. Copy the powershell scripts in a directory \<PASS_DIR\>
 4. Add the following lines to your Powershell profile
 
         . "<PASS_DIR>passRunner.ps1" 
@@ -26,10 +26,10 @@ Configuration
 Usage
 -----
 
-1. List your passphrases
+1. List the descrition of your passphrases
 
 Execute in the prompt: Pass
 
 2. Get one passphrase in the clipboard
 
-Execute in the prompt: PassId <Id>
+Execute in the prompt: PassId \<Id\>
