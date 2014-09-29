@@ -15,7 +15,7 @@ Configuration
         ]
         }
 
-2. Save the json file in a directory. We will name the directory to the file <PASS_FILE_PATH>
+2. Save the json file in a directory. We will name the directory to the file \<PASS_FILE_PATH\>
 3. Copy the powershell scripts in a directory <PASS_DIR>
 4. Add the following lines to your Powershell profile
 
